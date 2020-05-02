@@ -1,0 +1,33 @@
+_repo: Oeuvres-completes-tome-46_61905
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sterne, Laurence
+    alias: Yorick, Mr.
+    birthdate: 1713
+    deathdate: 1768
+    gutenberg_agent_id: '419'
+    url: http://www.gutenberg.org/2009/agents/419
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Laurence_Sterne
+    - https://en.wikipedia.org/wiki/Laurence_Sterne
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61905'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 18th century -- Translations into French'
+- !lcsh 'Sterne, Laurence, 1713-1768 -- Correspondence -- Translations into French'
+- !lcc 'PR'
+- !lcsh 'English fiction -- 18th century -- Translations into French'
+- GITenberg
+title: Oeuvres complètes, tome 4/6
+url: http://www.gutenberg.org/ebooks/61905
