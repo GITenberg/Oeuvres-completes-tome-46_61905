@@ -1,5 +1,8 @@
 _repo: Oeuvres-completes-tome-46_61905
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61905-h/images/cover.jpg
 creator:
   author:
     agent_name: Sterne, Laurence
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Laurence_Sterne
     - https://en.wikipedia.org/wiki/Laurence_Sterne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61905#Oeuvres-completes-tome-46
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
